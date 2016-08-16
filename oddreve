@@ -1,5 +1,5 @@
 import java.util.*;
-classs oddreve
+class oddreve
 {
 public static void main(String a[])
 {
