@@ -8,6 +8,6 @@ int a=s.nextInt();
 int y=1;
 for(int i=1;i<=a;i++)
 y*=i;
-System.out.printl(y);
+System.out.println(y);
 }
 }
