@@ -1,9 +1,10 @@
 import java.util.*;
 class large
 {
-public static void main(int args[])
+public static void main(String args[])
 {
-Arrays.sort(args);
-System.out.print(args[args.length-1]);
+int a[]=new int[]{34,2,23};
+		Arrays.sort(a);
+System.out.print(a[a.length-1]);
 }
 }
